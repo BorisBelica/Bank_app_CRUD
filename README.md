@@ -1,5 +1,11 @@
 # Bank_app_CRUD
  Simple CRUD bank app - university project.
+ 
+ !! IMPORTANT !!
+ You will probably need to install:
+ Microsoft Access Database Engine 2010
+ https://www.microsoft.com/en-us/download/details.aspx?id=13255
+ 
 
 version 1.0.0 - Actual version
 
