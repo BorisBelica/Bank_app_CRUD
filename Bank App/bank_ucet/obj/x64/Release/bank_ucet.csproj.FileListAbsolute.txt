@@ -1,0 +1,14 @@
+C:\Users\boris\Desktop\bank_ucet\bank_ucet\bin\x64\Release\bank_ucet.exe.config
+C:\Users\boris\Desktop\bank_ucet\bank_ucet\bin\x64\Release\bank_ucet.exe
+C:\Users\boris\Desktop\bank_ucet\bank_ucet\bin\x64\Release\bank_ucet.pdb
+C:\Users\boris\Desktop\bank_ucet\bank_ucet\obj\x64\Release\bank_ucet.csprojAssemblyReference.cache
+C:\Users\boris\Desktop\bank_ucet\bank_ucet\obj\x64\Release\bank_ucet.MainMenu.resources
+C:\Users\boris\Desktop\bank_ucet\bank_ucet\obj\x64\Release\bank_ucet.LoginAccess.resources
+C:\Users\boris\Desktop\bank_ucet\bank_ucet\obj\x64\Release\bank_ucet.NewAccount.resources
+C:\Users\boris\Desktop\bank_ucet\bank_ucet\obj\x64\Release\bank_ucet.DeleteAccount.resources
+C:\Users\boris\Desktop\bank_ucet\bank_ucet\obj\x64\Release\bank_ucet.ChangeAccData.resources
+C:\Users\boris\Desktop\bank_ucet\bank_ucet\obj\x64\Release\bank_ucet.News.resources
+C:\Users\boris\Desktop\bank_ucet\bank_ucet\obj\x64\Release\bank_ucet.Properties.Resources.resources
+C:\Users\boris\Desktop\bank_ucet\bank_ucet\obj\x64\Release\bank_ucet.csproj.GenerateResource.cache
+C:\Users\boris\Desktop\bank_ucet\bank_ucet\obj\x64\Release\bank_ucet.exe
+C:\Users\boris\Desktop\bank_ucet\bank_ucet\obj\x64\Release\bank_ucet.pdb
